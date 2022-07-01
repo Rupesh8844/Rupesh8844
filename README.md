@@ -17,6 +17,7 @@
 - ✍️  In my free time, I play cricket and explore new technologies.
 - 💬 You can email me: www.rupeshthakur8844.com I'll try to respond as soon as possible!
 - ⚡ Fun Fact: Imagination is more important than knowledge 📖
+- 💬 Have a look at my portfolio[https://wondrous-babka-5217e8.netlify.app/].
 
 ---
 
