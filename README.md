@@ -9,17 +9,14 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Java Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :telescope: I’m working as a Software Engineer and contributing to backend for building web applications.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on Hackerrank and play cricket.
-   💬
-- :mailbox:  You can email me: www.rupeshthakur8844.com I'll try to respond as soon as possible!
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rupeshthakur8844/)
+- :telescope: I’m currently working on Backend. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🌱 I’m currently learning the Java Backend Developer at Masai School.
+- 👯 I’m looking to collaborate on LinkedIn & GitHub
+- :seedling:  I'm on track for learning more about Backend Development,Java Architecture, and Agile Methodology .
+- ✍️  In my free time, I play cricket and explore new technologies.
+- 💬 You can email me: www.rupeshthakur8844.com I'll try to respond as soon as possible!
+- ⚡ Fun Fact: Imagination is more important than knowledge 📖
 
 ---
 
@@ -34,6 +31,13 @@ I am a Java Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOC
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>
 </div>
+
+---
+:mailbox:How to reach me:
+
+[![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rupeshthakur8844/)
+[![Instagram Badge](https://img.shields.io/badge/-INSTAGRAM-black?style=flat&logo=Instagram&logoColor=whilte)](https://www.instagram.com/rupeshthakur01/)
+[![Facebook Badge](https://img.shields.io/badge/-FACEBOOK-white?style=flat&logo=facebook&logoColor=whilte)](https://www.facebook.com/rupesh.thakur.127201/)
 
 ---
 
