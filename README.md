@@ -33,7 +33,7 @@ I am a highly passionate Backend developer who loves, creating APIs, and working
 
 - 📝 I regularly write articles on [**Medium**](https://medium.com/@rupeshthakur8844)
 
-- 📫 How to reach me: [**Email**](https://mail.google.com/mail/u/0/#inbox)
+- 📫 How to reach me: **rupeshthakur8844@gmail.com**
 
 - 📄 Know about my experiences [**Resume**](https://drive.google.com/drive/folders/1cierROdp0_HLE9Op-qUEzlerZMzBYZet?usp=sharing)
 
