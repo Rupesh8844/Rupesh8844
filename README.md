@@ -65,8 +65,6 @@ I am a highly passionate Backend developer who loves, creating APIs, and working
 
 ### :fire: My Stats :
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rupesh8844&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Rupesh8844" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rupesh8844&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Rupesh8844" /></p>     
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rupesh8844&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Rupesh8844" /></p><p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Rupesh8844&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Rupesh8844" /></p>    
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rupesh8844&theme=dark&background=000000)](https://git.io/streak-stats)
