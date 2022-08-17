@@ -25,7 +25,7 @@ I am a highly passionate Backend developer who loves, creating APIs, and working
 
 - 👯 I’m looking to collaborate on LinkedIn & GitHub
 
-- 👨‍💻 All of my projects are available at [**Porfolio**](https://rupeshthakur.netlify.app/)
+- 👨‍💻 All of my projects are available at [**Portfolio**](https://rupeshthakur.netlify.app/)
 
 - 📝 I regularly write articles on [**Medium**](https://medium.com/@rupeshthakur8844)
 
