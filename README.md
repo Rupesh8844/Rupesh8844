@@ -44,19 +44,32 @@ I am a highly passionate Backend developer who loves, creating APIs, and working
 ### :hammer_and_wrench: Languages and Tools :
 
 <p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/></a>&nbsp;<a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="50" height="50"/></a>&nbsp;<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/></a>&nbsp;<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/></a>&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/> </a> &nbsp;
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/> </a>&nbsp;<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/></a>&nbsp;<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/> </a> &nbsp;<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/></a><a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50"   height="50"/></a>&nbsp;</p>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/></a>&nbsp;   &nbsp;
+<a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="50" height="50"/></a>&nbsp;   &nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/> </a> &nbsp;   &nbsp;
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/> </a>&nbsp;   &nbsp;
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/></a>&nbsp;   &nbsp;
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/></a>&nbsp;   &nbsp;
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50"   height="50"/></a>&nbsp;   &nbsp;
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"><img  alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="50" height="50" style="max-width: 100%;"></a> &nbsp;   &nbsp;
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50" style="max-width: 100%;"></a>  &nbsp;   &nbsp;
+  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50" style="max-width: 100%;"></a>  &nbsp;   &nbsp;
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/> </a> &nbsp;   &nbsp;
+
+</p>
 
 ---
 ### :mailbox: Connect with me :
 
+<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px" style="max-width: 100%;"><br>
+
 <p align="left"; style="display: flex;justify-content: space-evenly;width: 40%;">
-<a href="https://www.linkedin.com/in/rupeshthakur8844/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rupeshthakur8844" height="40" width="50" /></a>
-<a href="https://medium.com/@rupeshthakur8844" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rupeshthakur8844" height="40" width="50" /></a>
-<a href="https://www.hackerrank.com/rupeshthakur8844" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rupeshthakur8844" height="40" width="50" /></a>
-<a href="https://www.leetcode.com/rupesh8844" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rupesh8844" height="40" width="50" /></a>
-<a href="https://www.facebook.com/rupesh.thakur.127201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Rupesh Thakur" height="40" width="50" /></a>
-<a href="https://www.instagram.com/rupeshthakur01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rupeshthakur01" height="40" width="50" /></a>
+<a href="https://www.linkedin.com/in/rupeshthakur8844/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rupeshthakur8844" height="40" width="50" /></a>&nbsp;   &nbsp;
+<a href="https://medium.com/@rupeshthakur8844" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rupeshthakur8844" height="40" width="50" /></a>&nbsp;   &nbsp;
+<a href="https://www.hackerrank.com/rupeshthakur8844" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rupeshthakur8844" height="40" width="50" /></a>&nbsp;   &nbsp;
+<a href="https://www.leetcode.com/rupesh8844" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rupesh8844" height="40" width="50" /></a>&nbsp;   &nbsp;
+<a href="https://www.facebook.com/rupesh.thakur.127201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Rupesh Thakur" height="40" width="50" /></a>&nbsp;   &nbsp;
+<a href="https://www.instagram.com/rupeshthakur01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rupeshthakur01" height="40" width="50" /></a>&nbsp;   &nbsp;
 </p>
 
 ---
@@ -67,3 +80,11 @@ I am a highly passionate Backend developer who loves, creating APIs, and working
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Rupesh8844&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Rupesh8844"/></p>;
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rupesh8844&theme=dark&background=000000)](https://git.io/streak-stats)
+
+<img src="https://activity-graph.herokuapp.com/graph?username=Rupesh8844&theme=xcode">
+
+
+
+<code>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/marquee.svg"><img align="center" height="70" alt="Thanks" width="100%" src="https://github.com/Kushal997-das/Kushal997-das/raw/master/Profile%20generator/marquee.svg" style="max-width: 100%;"></a>
+</code>
