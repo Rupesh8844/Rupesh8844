@@ -25,7 +25,7 @@ I am a highly passionate Backend developer who loves, creating APIs, and working
 
 ### :woman_technologist: About Me :
  
-- 🌱 I’m currently learning **Mysql ,Spring Boot, Hibernate**
+- 🌱 I’m currently learning **Mysql ,Spring Boot, Hibernate,aws**
 
 - 👯 I’m looking to collaborate on LinkedIn & GitHub
 
