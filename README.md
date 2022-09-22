@@ -9,7 +9,7 @@
 <br/><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=000000&amp;size=30&amp;lines=Hey!+👋+It's+Rupesh+Thakur!;Learning+Java+Backend+...;" style="max-width: 100%;">
 <br/>
 <h3 align="left">A Java Backend developer</h3>
-I am a highly passionate Backend developer who loves, creating APIs, and working with databases. I am also extremely interested in creating elegant solutions, more specifically on System Design and High performaning solutions.
+I am a highly passionate Backend developer who loves creating APIs, and working with databases. I am also extremely interested in creating elegant solutions, more specifically on System Design and High performaning solutions.
 </div>
 </div>
 <br>
@@ -69,8 +69,6 @@ I am a highly passionate Backend developer who loves, creating APIs, and working
 <a href="https://medium.com/@rupeshthakur8844" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rupeshthakur8844" height="40" width="50" /></a>&nbsp;   &nbsp;
 <a href="https://www.hackerrank.com/rupeshthakur8844" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rupeshthakur8844" height="40" width="50" /></a>&nbsp;   &nbsp;
 <a href="https://www.leetcode.com/rupesh8844" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rupesh8844" height="40" width="50" /></a>&nbsp;   &nbsp;
-<a href="https://www.facebook.com/rupesh.thakur.127201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Rupesh Thakur" height="40" width="50" /></a>&nbsp;   &nbsp;
-<a href="https://www.instagram.com/rupeshthakur01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rupeshthakur01" height="40" width="50" /></a>&nbsp;   &nbsp;
 </p>
 
 ---
@@ -87,7 +85,3 @@ I am a highly passionate Backend developer who loves, creating APIs, and working
 <code>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/marquee.svg"><img align="center" height="70" alt="Thanks" width="100%" src="https://github.com/Kushal997-das/Kushal997-das/raw/master/Profile%20generator/marquee.svg" style="max-width: 100%;"></a>
 </code>
-
-
-
-
