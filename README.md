@@ -8,8 +8,8 @@
 
 <br/><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=000000&amp;size=30&amp;lines=Hey!+👋+It's+Rupesh+Thakur!;Learning+Java+Backend+...;" style="max-width: 100%;">
 <br/>
-<h3 align="left">A Java Backend developer</h3>
-A highly passionate backend developer. Interested in creating web services APIs to provide solutions for real-world problems and also working with databases..
+A highly passionate backend developer who loves, creating  web services APIs, and working with databases. Also extremely interested in creating elegant solutions, more specifically on System Design and High performaning solutions.
+
 </div>
 </div>
 <br>
