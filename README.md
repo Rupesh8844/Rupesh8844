@@ -9,7 +9,7 @@
 <br/><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=000000&amp;size=30&amp;lines=Hey!+👋+It's+Rupesh+Thakur!;Learning+Java+Backend+...;" style="max-width: 100%;">
 <br/>
 <h3 align="left">A Java Backend developer</h3>
-I am a highly passionate Backend developer who loves creating APIs, and working with databases. I am also extremely interested in creating elegant solutions, more specifically on System Design and High performaning solutions.
+An highly passionate Backend developer who loves creating APIs, and working with databases. I am also extremely interested in creating elegant solutions, more specifically on System Design and High performaning solutions.
 </div>
 </div>
 <br>
