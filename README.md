@@ -30,13 +30,13 @@ I am a highly passionate Backend developer who loves creating APIs, and working 
 
 - 👯 I’m looking to collaborate on LinkedIn & GitHub
 
-- 👨‍💻 All of my projects are available at [**Portfolio**](https://rupeshthakur.netlify.app/)
+- 📄 Know about my experiences [**Resume**](https://drive.google.com/drive/folders/1cierROdp0_HLE9Op-qUEzlerZMzBYZet?usp=sharing)
 
-- 📝 I regularly write articles on [**Medium**](https://medium.com/@rupeshthakur8844)
+- 👨‍💻 All of my projects are available at [**Portfolio**](https://rupeshthakur.netlify.app/)
 
 - 📫 How to reach me: **rupeshthakur8844@gmail.com**
 
-- 📄 Know about my experiences [**Resume**](https://drive.google.com/drive/folders/1cierROdp0_HLE9Op-qUEzlerZMzBYZet?usp=sharing)
+- 📝 I regularly write articles on [**Medium**](https://medium.com/@rupeshthakur8844)
 
 - ⚡ Fun fact **You can't touch your nose with your tongue**
 
