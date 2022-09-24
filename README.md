@@ -66,7 +66,7 @@ A highly passionate backend developer who loves, creating  web services APIs, an
 
 <p align="left"; style="display: flex;justify-content: space-evenly;width: 40%;">
 <a href="https://www.linkedin.com/in/rupeshthakur8844/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rupeshthakur8844" height="40" width="50" /></a>&nbsp;   &nbsp;
-<a href="https://www.hackerrank.com/rupeshthakur8844" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rupeshthakur8844" height="40" width="50" /></a>&nbsp;   &nbsp;
+<a href="https://www.hackerrank.com/rupesh8844" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rupesh8844" height="40" width="50" /></a>&nbsp;   &nbsp;
 <a href="https://www.leetcode.com/rupesh8844" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rupesh8844" height="40" width="50" /></a>&nbsp;   &nbsp;
 <a href="https://medium.com/@rupeshthakur8844" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rupeshthakur8844" height="40" width="50" /></a>&nbsp;   &nbsp;
 </p>
