@@ -81,15 +81,8 @@ A highly passionate backend developer who loves, creating  web services APIs, an
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rupesh8844&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<!-- <img src="https://activity-graph.herokuapp.com/graph?username=Rupesh8844&theme=xcode"> -->
+<img src="https://activity-graph.herokuapp.com/graph?username=Rupesh8844&theme=xcode">
 
 <code>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/marquee.svg"><img align="center" height="70" alt="Thanks" width="100%" src="https://github.com/Kushal997-das/Kushal997-das/raw/master/Profile%20generator/marquee.svg" style="max-width: 100%;"></a>
 </code>
-
-
-
-
-
-
-
