@@ -36,7 +36,6 @@ A highly passionate backend developer who loves, creating  web services APIs, an
 
 - 📫 How to reach me: **rupeshthakur8844@gmail.com**
 
-- 📝 I regularly write articles on [**Medium**](https://medium.com/@rupeshthakur8844)
 
 - ⚡ Fun fact **You can't touch your nose with your tongue**
 
