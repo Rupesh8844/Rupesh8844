@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="330" viewBox="0 0 880 330" role="img" aria-label="OpenStreetMap and location pings flow into ATLAS (import jobs, trips, routing), which powers AdMAVIN (reach, frequency, OTS); AdMAVIN runs batch jobs across 1,100+ cities and serves REST APIs to clients.">
+<rect width="880" height="330" rx="16" fill="#F4F8F7"/>
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="#7FA6A6"/></marker></defs>
+<path id="e0" d="M200 77.0 C226.0 77.0 226.0 164.0 250 164.0" fill="none" stroke="#B9CFCD" stroke-width="2" stroke-dasharray="5 6" marker-end="url(#a)"><animate attributeName="stroke-dashoffset" from="22" to="0" dur="1s" repeatCount="indefinite"/></path>
+<circle r="4.5" fill="#F4A259"><animateMotion dur="2.4s" begin="0.00s" repeatCount="indefinite"><mpath href="#e0"/></animateMotion></circle>
+<circle r="4.5" fill="#F4A259"><animateMotion dur="2.4s" begin="1.20s" repeatCount="indefinite"><mpath href="#e0"/></animateMotion></circle>
+<path id="e1" d="M200 243.0 C226.0 243.0 226.0 164.0 250 164.0" fill="none" stroke="#B9CFCD" stroke-width="2" stroke-dasharray="5 6" marker-end="url(#a)"><animate attributeName="stroke-dashoffset" from="22" to="0" dur="1s" repeatCount="indefinite"/></path>
+<circle r="4.5" fill="#F4A259"><animateMotion dur="2.4s" begin="0.35s" repeatCount="indefinite"><mpath href="#e1"/></animateMotion></circle>
+<circle r="4.5" fill="#F4A259"><animateMotion dur="2.4s" begin="1.55s" repeatCount="indefinite"><mpath href="#e1"/></animateMotion></circle>
+<path id="e2" d="M432 164.0 C454.0 164.0 454.0 164.0 474 164.0" fill="none" stroke="#B9CFCD" stroke-width="2" stroke-dasharray="5 6" marker-end="url(#a)"><animate attributeName="stroke-dashoffset" from="22" to="0" dur="1s" repeatCount="indefinite"/></path>
+<circle r="4.5" fill="#F4A259"><animateMotion dur="2.4s" begin="0.70s" repeatCount="indefinite"><mpath href="#e2"/></animateMotion></circle>
+<circle r="4.5" fill="#F4A259"><animateMotion dur="2.4s" begin="1.90s" repeatCount="indefinite"><mpath href="#e2"/></animateMotion></circle>
+<path id="e3" d="M656 164.0 C673.0 164.0 673.0 77.0 688 77.0" fill="none" stroke="#B9CFCD" stroke-width="2" stroke-dasharray="5 6" marker-end="url(#a)"><animate attributeName="stroke-dashoffset" from="22" to="0" dur="1s" repeatCount="indefinite"/></path>
+<circle r="4.5" fill="#F4A259"><animateMotion dur="2.4s" begin="1.05s" repeatCount="indefinite"><mpath href="#e3"/></animateMotion></circle>
+<circle r="4.5" fill="#F4A259"><animateMotion dur="2.4s" begin="2.25s" repeatCount="indefinite"><mpath href="#e3"/></animateMotion></circle>
+<path id="e4" d="M656 164.0 C673.0 164.0 673.0 243.0 688 243.0" fill="none" stroke="#B9CFCD" stroke-width="2" stroke-dasharray="5 6" marker-end="url(#a)"><animate attributeName="stroke-dashoffset" from="22" to="0" dur="1s" repeatCount="indefinite"/></path>
+<circle r="4.5" fill="#F4A259"><animateMotion dur="2.4s" begin="1.40s" repeatCount="indefinite"><mpath href="#e4"/></animateMotion></circle>
+<circle r="4.5" fill="#F4A259"><animateMotion dur="2.4s" begin="2.60s" repeatCount="indefinite"><mpath href="#e4"/></animateMotion></circle>
+<rect x="20" y="40" width="180" height="74" rx="14" fill="#ffffff" stroke="#D5E3E1" stroke-width="1.5"/>
+<text x="110.0" y="73.0" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#0E3B43">OpenStreetMap</text>
+<text x="110.0" y="93.0" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#5F7A7D">roads · POIs · boundaries</text>
+<rect x="20" y="206" width="180" height="74" rx="14" fill="#ffffff" stroke="#D5E3E1" stroke-width="1.5"/>
+<text x="110.0" y="239.0" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#0E3B43">Location pings</text>
+<text x="110.0" y="259.0" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#5F7A7D">raw GPS movement data</text>
+<rect x="252" y="116" width="180" height="96" rx="14" fill="#0E3B43" stroke="#F4A259" stroke-width="2"/>
+<rect x="252" y="116" width="180" height="96" rx="14" fill="none" stroke="#F4A259" stroke-width="2" opacity="0.6"><animate attributeName="opacity" values="0.6;0;0.6" dur="2.4s" repeatCount="indefinite"/></rect>
+<text x="342.0" y="160.0" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff">ATLAS</text>
+<text x="342.0" y="180.0" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#BFD6D4">import jobs · trips · routing</text>
+<rect x="476" y="116" width="180" height="96" rx="14" fill="#0E3B43" stroke="#F4A259" stroke-width="2"/>
+<rect x="476" y="116" width="180" height="96" rx="14" fill="none" stroke="#F4A259" stroke-width="2" opacity="0.6"><animate attributeName="opacity" values="0.6;0;0.6" dur="2.4s" repeatCount="indefinite"/></rect>
+<text x="566.0" y="160.0" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff">AdMAVIN</text>
+<text x="566.0" y="180.0" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#BFD6D4">reach · frequency · OTS</text>
+<rect x="690" y="40" width="170" height="74" rx="14" fill="#ffffff" stroke="#D5E3E1" stroke-width="1.5"/>
+<text x="775.0" y="73.0" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#0E3B43">Batch jobs</text>
+<text x="775.0" y="93.0" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#5F7A7D">1,100+ cities · Quartz</text>
+<rect x="690" y="206" width="170" height="74" rx="14" fill="#ffffff" stroke="#D5E3E1" stroke-width="1.5"/>
+<text x="775.0" y="239.0" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#0E3B43">REST APIs</text>
+<text x="775.0" y="259.0" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#5F7A7D">JWT · API keys · clients</text>
+<text x="440.0" y="316" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#5F7A7D">data in  →  geo-spatial processing  →  audience analytics  →  served at scale</text>
+</svg>
