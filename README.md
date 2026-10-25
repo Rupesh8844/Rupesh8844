@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1400&color=0E3B43&vCenter=true&width=640&height=34&lines=Building+REST+APIs+that+run+in+production;Turning+traffic+data+into+audience+analytics;Java+%C2%B7+Spring+%C2%B7+MongoDB+%C2%B7+MySQL+%C2%B7+AWS" alt="Building REST APIs that run in production · Turning traffic data into audience analytics · Java, Spring, MongoDB, MySQL, AWS" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1400&color=0E3B43&center=true&vCenter=true&width=640&height=34&lines=Building+REST+APIs+that+run+in+production;Turning+traffic+data+into+audience+analytics;Java+%C2%B7+Spring+%C2%B7+MongoDB+%C2%B7+MySQL+%C2%B7+AWS" alt="Building REST APIs that run in production · Turning traffic data into audience analytics · Java, Spring, MongoDB, MySQL, AWS" />
 </p>
 
 <p align="center">
