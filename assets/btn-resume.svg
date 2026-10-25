@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="122" height="44" viewBox="0 0 122 44" role="img" aria-label="Resume">
+<defs><linearGradient id="s" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".35"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<clipPath id="r"><rect width="122" height="44" rx="22"/></clipPath></defs>
+<g clip-path="url(#r)"><rect width="122" height="44" fill="#F4A259"/>
+<rect x="-80" y="0" width="60" height="44" fill="url(#s)" transform="skewX(-20)"><animate attributeName="x" values="-80;-80;182" keyTimes="0;0.7;1" dur="4s" begin="0.3s" repeatCount="indefinite"/></rect></g>
+<g transform="translate(18 12) scale(0.8333333333333334)" fill="none" stroke="#0E3B43" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 3H7a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V8z"/><path d="M14 3v5h5M9 13h6M9 17h6"/></g>
+<text x="48" y="28" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#0E3B43">Resume</text>
+</svg>
